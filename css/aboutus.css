@@ -1,0 +1,26 @@
+#element{
+    background-color: rgb(152, 169, 228);
+     border-radius: 30px;
+   text-align: left;
+   margin: 25px;
+   }
+
+   .forma{
+    background-color: rgb(193, 142, 216);
+margin: auto;
+
+  }
+   .contact{
+    background-color: rgb(213, 250, 48);
+    text-align: center;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: aliceblue;
+   }
+
+   .address{
+    background-color: rgb(7, 15, 98);
+    color: aliceblue;
+    text-align: center;}

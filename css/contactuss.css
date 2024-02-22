@@ -1,0 +1,42 @@
+#element{
+   background-color: rgb(152, 169, 228);
+    border-radius: 30px;
+  text-align: left;
+  margin: 25px;
+  }
+  .tableform{
+   background-color: dimgray;
+   color: aliceblue;
+   text-align: center;
+   margin-bottom: 50px;
+   border-radius: 30px;
+   margin-left: 500px;
+   margin-right: 500px;
+  }
+.stolb{ text-align: center;
+margin-left:  560px;}
+
+  .table{
+       background-color: rgb(159, 135, 183);
+       text-align: center;
+  }
+ .forma{
+   background-color: rgb(85, 61, 96);
+margin-top: 125px;
+margin-bottom: 225px;
+margin-left: 155px;
+margin-right: 155px;
+border-radius: 15px 50px 30px 0px;
+ }
+  .contact{
+   background-color: rgb(206, 247, 27);
+   text-align: center;
+   margin-bottom: 50px;
+   border-radius: 30px;
+   margin-left: 500px;
+   margin-right: 500px;
+  }
+  .address{
+   background-color: rgb(7, 15, 98);
+   color: aliceblue;
+   text-align: center;}
